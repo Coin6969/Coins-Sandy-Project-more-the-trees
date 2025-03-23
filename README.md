@@ -1,1 +1,3 @@
 # Coins-Sandy-Project-more-the-trees
+
+I know it has been a long time since I've made a ymap for FievM, but here it is. Instead of starting from scratch, I've used the CoinsTrees ymap (my last ymap) as a base and built up on it. You'll find small changes around sandy shores making your life easier and making Sandy look so much cleaner and better looking. You will find shrines for fallen soldiers, less mud and dirt on the roads and secret little hidden objects found around the map and so much more. This project is primarily made for a server called Horizon Roleplay but is being made public for every server to use. In litre updates there will be object added to the map in commemoration with Horizon members.
